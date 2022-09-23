@@ -3,56 +3,56 @@ var myQuestions = [
     {
         question: "Hoi, mijn naam is...",
         answers: {
-            a: 'Joop',
-            b: 'Jan',
-            c: 'Kees'
+            a: 'Elske',
+            b: 'Sietske',
+            c: 'Frederique'
+        },
+        correctAnswer: 'c'
+    },
+    {
+        question: "Ik heb hondje als huisdier en die heet...",
+        answers: {
+            a: 'Lulu',
+            b: 'Amber',
+            c: 'Pip'
+        },
+        correctAnswer: 'a'
+    },
+    {
+        question: "In het dagelijks leven...",
+        answers: {
+            a: 'Werk ik bij een kinderopvang',
+            b: 'Ben ik veel bezig met schilderen',
+            c: 'Begeleid ik mensen met een beperking'
+        },
+        correctAnswer: 'c'
+    },
+    {
+        question: "Ik hou ontzettend veel van...",
+        answers: {
+            a: 'Friese muziek',
+            b: 'Kijken naar sportkanalen',
+            c: 'Lesgeven over dieren'
         },
         correctAnswer: 'a'
     },
     {
         question: "Ik sta ook wel bekend als...",
         answers: {
-            a: 'Meester',
-            b: 'DJ Quickfinger',
-            c: 'Schaatser'
+            a: 'Fire Girl',
+            b: 'Dragon Girl',
+            c: 'Woman of Flames'
         },
         correctAnswer: 'b'
     },
     {
-        question: "Daarnaast heb ik mijn eigen...",
+        question: "Ik sta als model in een kalender, bekend als...",
         answers: {
-            a: 'Voetbalclub',
-            b: 'Biermerk',
-            c: 'Restaurant'
+            a: 'Kalender van bekende Friezen',
+            b: 'Boerinnenkalender',
+            c: 'Vuurkalender'
         },
         correctAnswer: 'b'
-    },
-    {
-        question: "En de naam is...",
-        answers: {
-            a: 'FC Fries',
-            b: 'De Kruidentuin',
-            c: 'Planetenpils'
-        },
-        correctAnswer: 'c'
-    },
-    {
-        question: "Friesland is een...",
-        answers: {
-            a: 'Machtig mooie provincie',
-            b: 'Heel groot grasveld',
-            c: 'Provincie'
-        },
-        correctAnswer: 'a'
-    },
-    {
-        question: "Verder werk ik ook nog als...",
-        answers: {
-            a: 'Timmerman',
-            b: 'Bakker',
-            c: 'Schoenmaker'
-        },
-        correctAnswer: 'c'
     },
 ];
 
