@@ -3,56 +3,56 @@ var myQuestions = [
     {
         question: "Hoi, mijn naam is...",
         answers: {
-            a: 'Joop',
-            b: 'Jan',
-            c: 'Kees'
-        },
-        correctAnswer: 'a'
-    },
-    {
-        question: "Ik sta ook wel bekend als...",
-        answers: {
-            a: 'Meester',
-            b: 'DJ Quickfinger',
-            c: 'Schaatser'
+            a: 'Bas',
+            b: 'Piter',
+            c: 'Jeroen'
         },
         correctAnswer: 'b'
     },
     {
-        question: "Daarnaast heb ik mijn eigen...",
+        question: "Mijn beroep is...",
         answers: {
-            a: 'Voetbalclub',
-            b: 'Biermerk',
-            c: 'Restaurant'
-        },
-        correctAnswer: 'b'
-    },
-    {
-        question: "En de naam is...",
-        answers: {
-            a: 'FC Fries',
-            b: 'De Kruidentuin',
-            c: 'Planetenpils'
+            a: 'Boswachter',
+            b: 'Geschiedenis leraar',
+            c: 'Muziekant'
         },
         correctAnswer: 'c'
     },
     {
-        question: "Friesland is een...",
+        question: "En ik woon al mij hele leven in...",
         answers: {
-            a: 'Machtig mooie provincie',
-            b: 'Heel groot grasveld',
-            c: 'Provincie'
+            a: 'Dokkum',
+            b: 'Leeuwarden',
+            c: 'Marsum'
+        },
+        correctAnswer: 'c'
+    },
+    {
+        question: "Iets wat mij echt raakt is...",
+        answers: {
+            a: 'De Friese taal',
+            b: 'De natuur',
+            c: 'Muziek'
         },
         correctAnswer: 'a'
     },
     {
-        question: "Verder werk ik ook nog als...",
+        question: "Iets anders wat ik erg leuk vind is...",
         answers: {
-            a: 'Timmerman',
-            b: 'Bakker',
-            c: 'Schoenmaker'
+            a: 'Voetballen',
+            b: 'De wereld zien',
+            c: 'Naar de film gaan'
         },
-        correctAnswer: 'c'
+        correctAnswer: 'b'
+    },
+    {
+        question: "Ik beschouw Friesland als...",
+        answers: {
+            a: 'Mijn thuis',
+            b: 'De beste plek op aarde',
+            c: 'Een fanastische omgeving'
+        },
+        correctAnswer: 'a'
     },
 ];
 
