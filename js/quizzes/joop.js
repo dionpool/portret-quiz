@@ -1,3 +1,4 @@
+// Joop questions
 var myQuestions = [
     {
         question: "Hoi, mijn naam is...",
@@ -27,7 +28,7 @@ var myQuestions = [
         correctAnswer: 'b'
     },
     {
-        question: "En de naam is...",
+        question: "En de naam daarvan is...",
         answers: {
             a: 'FC Fries',
             b: 'De Kruidentuin',
@@ -55,9 +56,9 @@ var myQuestions = [
     },
 ];
 
-var quizContainer = document.getElementById('quiz');
-var resultsContainer = document.getElementById('results');
-var submitButton = document.getElementById('submit');
+var quizContainer = document.getElementById('joopQuiz');
+var resultsContainer = document.getElementById('joopResults');
+var submitButton = document.getElementById('joopSubmit');
 
 generateQuiz(myQuestions, quizContainer, resultsContainer, submitButton);
 

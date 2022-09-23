@@ -13,7 +13,12 @@ body {
 }
 
 /* Portret */
-.img-portret {
+.portret-img {
     width: 300px;
     height: 300px;
+}
+
+.portret-thumbnail {
+    width: 150px;
+    height: 150px;
 }
