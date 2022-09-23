@@ -40,3 +40,8 @@ body {
 .dropshadow {
     box-shadow: 0 .1rem .2rem rgba(0,0,0,.1)!important;
 }
+
+.btn-submit {
+    background-color: #5ac1cd !important;
+    color: white !important;
+}
